@@ -3,7 +3,6 @@
 ## Built With
 
 * [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
 * [Javascript](https://www.javascript.com/)
 * [Robohash API](https://robohash.org/)
 * [NPM Tachyons](https://www.npmjs.com/package/tachyons)
